@@ -276,7 +276,7 @@ proc (const char *const volume, const char *const output)
 	/*
 	 * Probably reading directly from floppy. Assume it's a HD floppy
 	 * which can hold 608 pages. No matter, the backup header should
-	 * indicate when the floppy ends so that we won't ready outside
+	 * indicate when the floppy ends so that we won't read outside
 	 * the image even if smaller.
 	 */
 	pages = 608;
