@@ -2,7 +2,7 @@
 
 ## About
 
-This is tool to create a Norsk Data filesystem (aka "directory") from
+This is a tool to create a Norsk Data filesystem (aka "directory") from
 (a set of)
 floppy disks created with the ND SINTRAN-III tool "WINCH-TO-FLOPPY".
 The format created with WINCH-TO-FLOPPY is documented at
