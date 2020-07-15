@@ -4,8 +4,8 @@
 
 This is a tool to create a Norsk Data filesystem (aka "directory") from
 (a set of)
-floppy disks created with the ND SINTRAN-III backup tool "WINCH-TO-FLOPPY".
-The format created with WINCH-TO-FLOPPY is documented at
+floppy disks created with the ND SINTRAN-III backup tool "WINCH-TO-FLOPP".
+The format created with WINCH-TO-FLOPP is documented at
 [ndwiki.org](http://www.ndwiki.org/wiki/WINCH-TO-FLOPP#Description_of_backup_format)
 
 ## Building
